@@ -1,0 +1,12 @@
+08:51:48.888 [main] INFO   org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@39695803: 15 ms
+08:51:48.948 [main] INFO   org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@6bc25ac2: 0 ms
+09:11:57.332 [main] DEBUG  org.testng.TestNG - suiteXmlPath: "C:\Users\erann\eclipse-workspace\OpencartV121\master.xml"
+09:11:57.865 [main] INFO   org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\erann\eclipse-workspace\OpencartV121\master.xml
+
+09:12:01.809 [main] INFO   testCases.TC001_AccountRegistrationTest - ***Starting the TC001_AccountRegistrationTest *** 
+09:12:02.297 [main] INFO   testCases.TC001_AccountRegistrationTest - Clicked on my account
+09:12:03.108 [main] INFO   testCases.TC001_AccountRegistrationTest - Clicked on registration
+09:12:03.127 [main] INFO   testCases.TC001_AccountRegistrationTest - Providing the customer details
+09:12:05.010 [main] ERROR  testCases.TC001_AccountRegistrationTest - Test Failed
+09:12:05.010 [main] DEBUG  testCases.TC001_AccountRegistrationTest - Debug logs
